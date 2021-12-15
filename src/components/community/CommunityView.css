@@ -1,0 +1,100 @@
+.communityview_line {
+  width: 76%;
+  height: 4px;
+  margin: 1em 0 1em 12em;
+  background-color: #707070;
+}
+
+.communityview_title {
+  width: 29em;
+  margin-left: 11em;
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: #353535;
+}
+
+.communityview_lists {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1em;
+}
+
+.communityview_lists_date {
+  width: 50em;
+  margin-left: 15em;
+  font-size: 16px;
+  color: #707070;
+}
+
+.communityview_lists_hits {
+  width: 10em;
+  margin-left: 2em;
+  font-size: 16px;
+  color: #707070;
+}
+
+.communityview_lists_like {
+  width: 10em;
+  margin-left: 0em;
+  font-size: 16px;
+  color: #707070;
+}
+
+.communityview_content {
+  height: 30em;
+  margin: 1em 0 0 15em;
+}
+
+.communityview_back {
+  width: 5em;
+  margin-left: 77em;
+  font-size: 1rem;
+  background-color: #fff;
+  border-radius: 8px;
+  cursor:pointer;
+}
+
+.communityview_comment {
+  margin: 1em 0 1em 15em;
+  font-weight: 600;
+}
+
+.communityview_comment_list {
+  display: flex;
+  flex-direction: row;
+}
+
+.communityview_comment_list_title {
+  width: 43em;
+  margin-left: 15em;
+}
+
+.communityview_comment_list_time {
+  width: 10em;
+  margin-left: 15em;
+  text-align: center;
+}
+
+.communityview_comment_list_line {
+  width: 76%;
+  height: 2px;
+  margin: 1em 0 1em 12em;
+  background-color: #707070;
+}
+
+.communityview_comment_sqaure {
+  width: 76%;
+  height: 16em;
+  margin: 2em 0 2em 11.9em;
+  border: solid 1px #707070;
+  background-color: #fff;
+}
+
+.communityview_comment_write {
+  width: 7em;
+  margin: 0 0 2em 62em;
+  font-size: 1.2rem;
+  background-color: #fff;
+  border-radius: 8px;
+  cursor:pointer;
+}

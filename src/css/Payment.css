@@ -1,0 +1,94 @@
+.payment_box {
+  width: 80vw;
+  height: 78vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  border-radius: 38px;
+  background-color: #f8f8f8;
+  margin: auto;
+  padding: 4vh 0 10vh;
+}
+
+.payment_title {
+  padding: 5vh 0 0 5.2vw;
+  font-size: 1.2vw;
+  font-weight: bold;
+}
+
+.payment_selectbox {
+  padding: 4vh 0 0 5.2vw;
+}
+
+.payment_select {
+  width: 12vw;
+  border: 1px solid rgb(131, 37, 37);
+  font-size: 1vw;
+  font-family: inherit;
+  color: #707070;
+  padding: 0.1vw;
+}
+
+.payment_switch {
+  margin-top: 1vh;
+}
+
+.payment_card {
+  margin: 5vh 0 0 0;
+  display: flex;
+  gap: 2vw;
+  justify-content: flex-start;
+}
+
+.payment_account {
+  margin: 5vh 0 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1vh;
+  justify-content: flex-start;
+}
+
+.payment_cardtext {
+  font-size: 1vw;
+  font-weight: bold;
+  margin: 1.6vh 0 0 0.5vw;
+}
+
+.payment_accounttext {
+  font-size: 1vw;
+  margin: 1.6vh 0 0 0.5vw;
+}
+
+.square {
+  width: 8.3vw;
+  height: 5vh;
+  border: solid 1px #707070;
+  background-color: #fff;
+}
+
+.payment_check {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 2vh;
+  flex-direction: column;
+}
+
+.payment_checkbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5vw;
+  font-size: 1vw;
+}
+
+.payment_checkbutton {
+  width: 6.75vw;
+  height: 4vh;
+  border-radius: 10px;
+  border: solid 1px #707070;
+  background-color: #1a72ec;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1vw;
+}
